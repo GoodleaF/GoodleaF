@@ -31,26 +31,26 @@ I'm a passionate software developer with experience in server infrastructure and
 
 #### 🚀 Responsibilities:
 - **Server Infrastructure:**
-  - Designed and maintained scalable server infrastructure to support various applications.
-  - Optimized server performance, leading to a 20% increase in efficiency.
+  - Provided other teams with Operation tools such as stress test tool, web operation tool, etc.
   
 - **Game Development:**
   - Developed and maintained game client/server communication protocols.
-  - Implemented features for online multiplayer gaming, focusing on low latency and high reliability.
+  - Implemented features for online multiplayer gaming, mostly on UI and basic functions such as Inventory, Death, Crafting, etc.
 
 ## 🌟 Projects
 
-### Project Name - [Link to Project](https://github.com/yourusername/yourproject)
-**Description:** Brief description of the project, what it does, and your role in it.
+### Web Operation tool - [Link to Project]([https://github.com/yourusername/yourproject](https://github.com/GoodleaF/frontend )![image](https://github.com/user-attachments/assets/639a29b9-ab77-4d5b-9d0e-13a6e01cd685)
+)
+**Description:** Web Operation tool connects to the backend/database and receives the information of user, kicking user, etc.
 
-### Another Project - [Link to Project](https://github.com/yourusername/yourproject)
-**Description:** Another project with a brief description.
+### Stress test tool(very basic) - [Link to Project]([https://github.com/yourusername/yourproject](https://github.com/GoodleaF/server-stressbot-example )![image](https://github.com/user-attachments/assets/4d90040c-d3e4-40ea-8641-76ed5e08627c)
+)
+**Description:** The Stress test tool made with the Windows form. Connected to the server of live/QA server and sends required amount of bots to test the AOI and the server vulnerability.
 
 ## 📫 Contact
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+- **Email:** [ky1234tho@gmail.com](mailto:ky1234tho@gmail.com)
+- **GitHub:** [Your GitHub Profile](https://github.com/GoodleaF)
 
 ---
 
