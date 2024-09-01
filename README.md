@@ -39,7 +39,7 @@ I'm a passionate software developer with experience in server infrastructure and
 
 ## 🌟 Projects
 
-### Web Operation tool - [Link to Project]([https://github.com/GoodleaF/frontend](https://github.com/GoodleaF/frontend )![image](https://github.com/user-attachments/assets/639a29b9-ab77-4d5b-9d0e-13a6e01cd685)
+### Web Operation tool - [Link to Project](https://github.com/GoodleaF/frontend)![image](https://github.com/user-attachments/assets/639a29b9-ab77-4d5b-9d0e-13a6e01cd685)
 )
 **Description:** Web Operation tool connects to the backend/database and receives the information of user, kicking user, etc.
 
