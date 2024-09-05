@@ -43,7 +43,7 @@ I'm a passionate software developer with experience in server infrastructure and
 
 **Description:** Web Operation tool connects to the backend/database and receives the information of user, kicking user, etc.
 
-### Stress test tool(very basic) - [Link to Project](https://github.com/GoodleaF/server-stressbot-example )![image](https://github.com/user-attachments/assets/4d90040c-d3e4-40ea-8641-76ed5e08627c)
+### Stress test tool(very basic) - [Link to Project](https://github.com/GoodleaF/server-stressbot-example )
 
 **Description:** The Stress test tool made with the Windows form. Connected to the server of live/QA server and sends required amount of bots to test the AOI and the server vulnerability.
 
