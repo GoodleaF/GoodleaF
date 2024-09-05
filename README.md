@@ -16,6 +16,10 @@ I'm a passionate software developer with experience in server infrastructure and
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
+## 🏆 Baekjoon Online Judge
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goodleaf96)](https://solved.ac/goodleaf96)
+
 ## 📚 Table of Contents
 - [About Me](#-about-me)
 - [Skills](#-skills)
@@ -39,7 +43,7 @@ I'm a passionate software developer with experience in server infrastructure and
 
 ## 🌟 Projects
 
-### Web Operation tool - [Link to Project](https://github.com/GoodleaF/frontend)![image](https://github.com/user-attachments/assets/639a29b9-ab77-4d5b-9d0e-13a6e01cd685)
+### Web Operation tool - [Link to Project](https://github.com/GoodleaF/frontend)
 
 **Description:** Web Operation tool connects to the backend/database and receives the information of user, kicking user, etc.
 
