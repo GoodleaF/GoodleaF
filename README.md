@@ -4,7 +4,8 @@
 
 **Name:** Kim Jung Yub  
 **Date of Birth:** June 30th, 1996  
-**Education:** Graduated from Dogguk University, majored Computer Engineering
+**Military Service:** Discharged from the service as Sergeant, served at 8th Army KATUSA, IMO  
+**Education:** Graduated from Dogguk University, majored in Computer Engineering
 
 I'm a passionate software developer with experience in server infrastructure and game development. I have a solid foundation in various programming languages and a keen interest in building efficient, scalable systems.
 
