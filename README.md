@@ -4,7 +4,7 @@
 
 **Name:** Kim Jung Yub  
 **Date of Birth:** June 30th, 1996  
-**Education:** Graduated from Dogguk University
+**Education:** Graduated from Dogguk University, majored Computer Engineering
 
 I'm a passionate software developer with experience in server infrastructure and game development. I have a solid foundation in various programming languages and a keen interest in building efficient, scalable systems.
 
