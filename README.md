@@ -44,6 +44,14 @@ I'm a passionate software developer with experience in server infrastructure and
 
 ## 🌟 Projects
 
+### E-Commerce Project frontend - [Link to Project](https://github.com/GoodleaF/be12-fin-404Found-Tech-Up-BE )
+
+**Description:** Frontend project of E-Commerce project 'Tech Up'. CSS and Styles not included.
+
+### E-Commerce Project backend - [Link to Project](https://github.com/GoodleaF/be12-fin-404Found-Tech-Up-FE )
+
+**Description:** Backend project of E-Commerce project 'Tech Up'. Demo site does not provide Redis and ElasticSearch. Distributed to kubernetes, demo is on AWS.
+
 ### Web Operation tool - [Link to Project](https://github.com/GoodleaF/frontend)
 
 **Description:** Web Operation tool connects to the backend/database and receives the information of user, kicking user, etc.
